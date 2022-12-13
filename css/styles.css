@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    text-align: center;
+    
+    font-family: 'Merriweather', serif;
+}
+
+
+h1{
+    color:grey;
+    margin: 0 auto 0 auto;
+    width: 20%;
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.first{
+    background-color:black;
+    
+}
+.second{
+    background-color:gainsboro;
+    
+}
+
+.third{
+    background-color:black;
+    text-emphasis-color:white;
+   
+
+}
+.image1{
+    width: 200px;
+    height: 200px;
+}
+.one{
+    color:grey;
+}
+.image2{
+    width: 1500px;
+    height: 650px;
+}
+
+.san{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+.v1{
+    width: 200px;
+    height: 200px;
+}
+.skill-row{
+    color:gray;
+}
+
+.skills{
+    background-color: black;
+}
